@@ -14,7 +14,7 @@ $ yarn install
 3. Execute o projeto
 ```
 $ npm run dev
-$ yarn dev:server
+$ yarn dev
 ```
 
 ## Desafios
